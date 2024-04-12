@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin Cao</h1>
 <h3 align="center">A Passionate Computer Science Student studying at the University of Toronto! ^_^</h3>
 
-- 👨‍💻 All of my projects are available at [alvincao88.github.io/alvin-website/](alvincao88.github.io/alvin-website/)
+- 👨‍💻 All of my projects are available at [alvincao88.github.io/alvin-website/](https://alvincao88.github.io/alvin-website/)
 
 - 💬 Ask me about **anything!**
 
